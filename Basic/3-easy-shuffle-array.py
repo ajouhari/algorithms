@@ -1,4 +1,5 @@
 # Author: Abdulrahman Jouhari
+# Date: June 21, 2020
 # Project: Shuffle the Array
 
 # Instructions: Given the array nums consisting of 2n elements in the form [x1,x2,...,xn,y1,y2,...,yn].

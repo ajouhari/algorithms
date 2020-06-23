@@ -1,4 +1,5 @@
 # Author: Abdulrahman Jouhari
+# Date: June 19, 2020
 # Project: Running Sum of 1d Array
 
 # Instructions: Given an array nums. We define a running sum of an array as runningSum[i] = sum(nums[0]…nums[i]).

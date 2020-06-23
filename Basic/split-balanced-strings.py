@@ -1,4 +1,5 @@
 # Author: Abdulrahman Jouhari
+# Date: June 23, 2020
 # Project: Split a String in Balanced Strings
 
 # Instructions: Balanced strings are those who have equal quantity of 'L' and 'R' characters.

@@ -1,4 +1,5 @@
 # Author: Abdulrahman Jouhari
+# Date: June 22, 2020
 # Project: Decompress Run-Length Encoded List
 
 # Instructions: We are given a list nums of integers representing a list compressed with run-length encoding.
